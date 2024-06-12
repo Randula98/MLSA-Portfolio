@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Portfolio Web-Site",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Portfolio site created using React. This site is a great way to showcase your work and experience.",
+    url: "https://randula-live.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Procurement Item Management Application - Web Application & Mobile Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "SHMOFY is a Web + Mobile Application to handle the procurement items and orders for the construction industry.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Sales Optimization Application-Web Application Application",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Price Q Web Application is built for the Clothing Industry to calculate the MSRP for the clothing items by reading the attributes of the clothing items ",
+    url: "https://github.com/Team-Tetra-Weeknd-People/SPM_Sales_Optimization_Application",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Material Inspection Mobile Application for Apperal Industry",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Material Inspection Application is a mobile application built to track the Quality Attributes of the Apparel Items",
+    url: "https://github.com/Team-Tetra-Weeknd-People/UEE-Clothing-React-Native-App",
   },
 ];
 
