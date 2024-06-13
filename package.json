@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/Randula98/MLSA-Portfolio"
   },
   "author": "Microsoft",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/Randula98/MLSA-Portfolio"
   },
   "dependencies": {
     "react": "^18.2.0",
